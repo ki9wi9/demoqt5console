@@ -1,5 +1,6 @@
 # demoqt5console
 
+```
 1. This is a qt5 console demo.
 
 2. To build:
@@ -19,3 +20,4 @@ open ./demoqt5console.app
 
 #---
 #EOF
+```
